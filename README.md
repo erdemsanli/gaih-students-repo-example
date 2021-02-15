@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021
-**Name:** Erdem
+**Name:** Erdem 
 **Surname:** Şanlı
 **E-mail:** eerdemsanli@gmail.com
 
